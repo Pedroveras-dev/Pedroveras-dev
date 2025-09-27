@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá,sou João Pedro 👋
 
-<!--
-**Pedroveras-dev/Pedroveras-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jp**
+`fkjdsiofdfk`
 
-Here are some ideas to get you started:
+++
+## Redes sociais
+<p align='left'>
+<a href='https://www.linkedin.com/in/jo%C3%A3o-pedro-veras-90bb0a378/'/>
+<img height="30" width="40" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href='https://www.instagram.com/joao_pedro_verass/?next=%2F'/>
+<img height="30" width="40" src="https://www.svgrepo.com/show/349410/instagram.svg" />
+            
+  
+</p> 
+
+
+
+          
