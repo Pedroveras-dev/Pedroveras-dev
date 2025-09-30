@@ -3,7 +3,7 @@
 **Jp**
 `fkjdsiofdfk`
 
-++
+
 ## Redes sociais
 <p align='left'>
 <a href='https://www.linkedin.com/in/jo%C3%A3o-pedro-veras-90bb0a378/'/>
