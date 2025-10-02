@@ -1,8 +1,8 @@
-# Olá,sou João Pedro 👋
+# Olá,sou João Pedro 👨🏽‍💻
 
-**Jp**
-`fkjdsiofdfk`
+`Futuro Dev`
 
+Eu chamo **João Pedro**, nasci em 2007, sou natural do Ceára e moro em **Parnaíba** . Concluí o ensino médio . Atualmente, estou cursando **Sistema de Computação na UESPI** . Sempre fui apaixonado por tecnologias, paixão essa que busco um dia transmitir em meus trabalhos.
 
 ## Redes sociais
 <p align='left'>
