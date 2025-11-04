@@ -6,7 +6,7 @@ Eu chamo **João Pedro**, nasci em 2007, sou natural do Ceára e moro em **Parna
 
 ## Redes sociais
 <p align='left'>
-<a href='https://www.linkedin.com/in/jo%C3%A3o-pedro-veras-90bb0a378/'/>
+<a href='https://www.linkedin.com/in/jo%C3%A3o-pedro-veras-632ba3388/'/>
 <img height="30" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 
