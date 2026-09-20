@@ -12,7 +12,7 @@ e TypeScript, construindo projetos que vão do backend ao frontend. Conquistei o
 lugar na Superliga X, torneio universitário nacional.
 
 #
-
+<img align="right" alt="" height="190px" src="./src/anime.gif">
 <h3 align="left">Contato</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF&color=6A0DAD)](mailto:joaopedroveras.br@gmail.com)
