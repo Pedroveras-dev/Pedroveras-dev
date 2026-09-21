@@ -16,7 +16,7 @@ lugar na Superliga X, torneio universitário nacional.
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF&color=6A0DAD)](mailto:joaopedroveras.br@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=6A0DAD)](https://www.linkedin.com/in/joao-pedro-veras/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=6A0DAD)](https://www.linkedin.com/in/jo%C3%A3o-pedro-veras/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFFFFF&color=6A0DAD)](https://www.instagram.com/joao_pedro_verass/)
 
 <h3 align="left">My Stack</h3>
